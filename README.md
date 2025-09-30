@@ -1,1 +1,2 @@
-# EDES-301-REAL
+# EDES301
+Repository for EDES 301 course work
