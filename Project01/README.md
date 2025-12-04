@@ -1,1 +1,1 @@
-# Audio Spectrum Visualizer Proposal
+# FPGA AI Pong Opponent
